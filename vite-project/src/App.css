@@ -1,0 +1,190 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bgimage {
+  background-image: url(./assets/img/bg-masthead.jpg);
+  background-size: 100% 100%;
+  width: 100%;
+  height: 370px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main {
+  color: white;
+  font-size: xx-large;
+  font-weight: 750;
+}
+
+.inp {
+  width: 300px;
+  height: 25px;
+  border: transparent;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.btn {
+  background-color: black;
+  color: white;
+  font-size: x-large;
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.FirstComponet {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  margin-top: 80px;
+  font-size: 19px;
+  margin-bottom: 50px;
+}
+
+.S3_text {
+
+  width: 50%;
+  height: 50%;
+  margin-left: 50px;
+  margin-top: 150px;
+  /* padding: 10px; */
+  /* display: inline-block; */
+}
+
+.S3_image {
+  /* display: inline-block; */
+  width: 54%;
+  height: 50%;
+}
+
+.Third_Component_main {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.Fourth_Component_main {
+  display: flex;
+  justify-content: center;
+}
+
+.S4_image {
+  width: 54%;
+  height: 20%;
+  /* margin-left: 50px;  */
+
+}
+
+.S4_text {
+  width: 50%;
+  height: 50%;
+  margin-left: 50px;
+  margin-top: 150px;
+}
+
+.Fifth_Component_main {
+  display: flex;
+  justify-content: center;
+}
+
+.S5_text {
+  width: 50%;
+  height: 50%;
+  margin-left: 50px;
+  margin-top: 150px;
+}
+
+.S5_image {
+  width: 59%;
+  height: 20%;
+  margin-left: 50px;
+  margin-bottom: 70px;
+}
+
+.cicl1 {
+  width: 50%;
+  border-radius: 50%;
+}
+
+.Sixth_Componet_main {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  margin-top: 80px;
+  font-size: 19px;
+  margin-bottom: 50px;
+}
+.cicl2 {
+  width: 50%;
+  border-radius: 50%;
+}
+.cicl3 {
+  width: 50%;
+  border-radius: 50%;
+}
+.bgimage_seven_componenet{
+  background-image: url(./assets/img/bg-masthead.jpg);
+  background-size: 100% 100%;
+  width: 100%;
+  height: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 70px;
+}
+.main_seven_componenet{
+  color: white;
+  font-size: 25px;
+  font-weight: 750;
+  text-align: center;
+}
+.inp_seven_component{
+  width: 350px;
+  height: 30px;
+  border: transparent;
+  border-radius: 5px;
+  padding: 5px;
+}
+.btn_seven_component{
+  background-color: black;
+  color: white;
+  font-size:25px ;
+  padding: 8px;
+  border: none;
+  border-radius: 5px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+.Eight_Component_main{
+
+}
+
+.Eight_Component{
+  margin-left: 200px;
+  width: 40%;
+  display: inline-block;
+}
+.li{
+  display: inline-block;
+  padding: 5px;
+
+}
+._Eight_Component_right{
+  display: inline-block;
+  justify-content: space-around;
+  margin-left: 80px;
+  margin-bottom: 30px;
+}
+.facebook{
+  margin-left: 30px;
+}
